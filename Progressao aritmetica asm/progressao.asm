@@ -54,7 +54,7 @@ li $t3, 2
 div $t1, $t3
 
 #pega o resto da divisao 
-wfhi $t4
+mfhi $t4
 
 
 
